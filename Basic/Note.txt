@@ -1,0 +1,17 @@
+
+--------------------------------------
+
+--------C Program Work Flow-----------
+
+---------------------------------------
+1. C Program (source code) has the extension {.c}.
+2. It is sent to the preprocessor which converts preprocessor directives into their respective values. i.e It generates the expanded source code.
+3. The Expanded  source code has the extension {.i}.
+4. It is sent to the compiler whihc compiles the code and convert it into assembly code.
+5. The assembly code has the extension {.s}.
+6. It is sent to the assembler which assembles the code and converts it into object code.
+7. The object code has the extension {.obj}.
+8. It is sent to the linker which links it to the library such as header files and converts it into executable code.
+9. The executbale code has the extension {.exe}.
+10. It is sent to the loader which loads it into the memory and then it is executed.
+11. Finally, output is sent to the console which is seen by the users.
