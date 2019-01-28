@@ -7,7 +7,7 @@
 1. C Program (source code) has the extension {.c}.
 2. It is sent to the preprocessor which converts preprocessor directives into their respective values. i.e It generates the expanded source code.
 3. The Expanded  source code has the extension {.i}.
-4. It is sent to the compiler whihc compiles the code and convert it into assembly code.
+4. It is sent to the compiler which compiles the code and convert it into assembly code.
 5. The assembly code has the extension {.s}.
 6. It is sent to the assembler which assembles the code and converts it into object code.
 7. The object code has the extension {.obj}.
