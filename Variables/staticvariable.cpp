@@ -2,7 +2,7 @@
 
 #include<stdio.h>
 void count(){
-	static int x=5;
+	static int x=5;  //static variable
 	int y =5;
 	x++; 
 	y++;
