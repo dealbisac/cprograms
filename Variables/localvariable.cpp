@@ -10,7 +10,7 @@ void count(){
 int main(){
 	
 	int x = 8;
-	printf("The value of x is %d from local scope of function\n", x);
+	printf("The value of x is %d from local scope of main\n", x);
 	count();
 	
 	return 0;
