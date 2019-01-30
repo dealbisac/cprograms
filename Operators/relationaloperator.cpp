@@ -38,5 +38,10 @@ int main() {
       printf("Line 5 - b is either greater than  or equal to b\n" );
    }
    
+   if( a != b ) {
+      printf("Line 6 - a is not equal to b\n" );
+   } else {
+      printf("Line 6 - a is equal to b\n" );
+   }
    return 0;
 }
