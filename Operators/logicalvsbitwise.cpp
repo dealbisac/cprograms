@@ -1,4 +1,4 @@
-//C Program to show differene between logical and bitwse operator
+//C Program to show difference between logical and bitwise operator
 
 #include<stdio.h>
 int main(){
