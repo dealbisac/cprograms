@@ -18,7 +18,7 @@ int main()
     printf("(a != b) || (c < b) equals to %d \n", result);
 
     result = !(a != b);
-    printf("!(a == b) equals to %d \n", result);
+    printf("!(a != b) equals to %d \n", result);
 
     result = !(a == b);
     printf("!(a == b) equals to %d \n", result);
