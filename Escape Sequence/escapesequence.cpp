@@ -3,6 +3,7 @@
 #include<stdio.h>    
 int main(){    
      int number=50; 
+     int age;
      /*
      Escape Sequence	Meaning
      ----------------------------
@@ -24,8 +25,10 @@ int main(){
      
      */
      
-	 printf("\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b\b"); 
+	printf("\a"); 
     printf("You\nare\nlearning\n\'c\' language\n\"Do you know C language\"");  
+    scanf("%d", &age);
+    
 	
 return 0;  
 }     
