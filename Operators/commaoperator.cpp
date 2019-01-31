@@ -1,4 +1,4 @@
-// Comma Operator
+// Comma Operator Example
  
 #include<stdio.h> 
   
