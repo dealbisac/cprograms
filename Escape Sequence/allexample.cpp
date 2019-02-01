@@ -11,11 +11,11 @@ int main(){
 	printf("Use of vertical tab \v is this \n");
 	printf("When you use Backslash(\\) use this \\\\\n");
 	printf("Hello fri \r ends\n");
-	printf("\''This is single quote\'\n");
+	printf("\'This is single quote\'\n");
 	printf("\" This is enclosed in double quote\"\n");
 	printf("What is C Programming \?\n");
 	printf("\nnn987\n");
-	printf("%s", s1); 
+	printf("%s\n", s1); 
 	
 	/*
 	Here 000 is one to three octal digits(0….7) means there must be atleast one octal digit
@@ -23,7 +23,7 @@ int main(){
 	  notation that is the ASCII value of char ‘:’. 
 	  At the place of \072 there is : and the output is A:5.
 	*/
-	printf("%s", s2); 
+	printf("%s\n", s2); 
 	
 	/*
 	Here hh is one or more hexadecimal digits(0….9, a…f, A…F).There can be more than one hexadecimal number 
