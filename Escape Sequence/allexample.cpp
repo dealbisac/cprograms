@@ -10,7 +10,7 @@ int main(){
 	printf("Use of new line \n");
 	printf("Use of vertical tab \v is this \n");
 	printf("When you use Backslash(\\) use this \\\\\n");
-	printf("Hello fri \r ends");
+	printf("Hello fri \r ends\n");
 	printf("\''This is single quote\'\n");
 	printf("\" This is enclosed in double quote\"\n");
 	printf("What is C Programming \?\n");
