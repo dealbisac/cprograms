@@ -1,4 +1,4 @@
-//Example of if control statements
+//Program to find whether the given number is even using if statements.
 /*
 
 The if statement is used to check some given condition and perform some operations depending upon the correctness of that condition. 
