@@ -8,11 +8,12 @@
 // 6. C Program to Find Quotient and Remainder of Two Integers Entered by User
 // 7. C Program to Find Size of int, float, double and char of Your System
 // 8. C Program to Demonstrate the Working of Keyword long
-// 9. C Program to Swap Two numbers Entered by User
-// 10. C Program to show the example of ternary operator
-// 11. C Program to show the examples of operators
-// 12. C Program to show the example of escape sequence
-// 13. C Program to show the example of Constant Value.
+// 9. C Program to Swap Two numbers Entered by User Using Temporary Variable
+// 10. C Program to Swap Two numbers Entered by User without Using Temporary Variable
+// 11. C Program to show the example of ternary operator
+// 12. C Program to show the examples of operators
+// 13. C Program to show the example of escape sequence
+// 14. C Program to show the example of Constant Value.
 
 
  
