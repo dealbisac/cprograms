@@ -1,4 +1,4 @@
-//
+//Program to calculate the divsion of the student using if-else ladder statements.
 /*
 
 The if-else-if ladder statement is an extension to the if-else statement. It is used in the scenario where there are multiple cases to be performed for
