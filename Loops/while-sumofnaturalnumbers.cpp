@@ -3,12 +3,11 @@
 #include<stdio.h>
 int main()
 {
-	int num, number, i=1, sum=0;
+	int num, i=1, sum=0;
 	
 	printf("\nEnter the positive integor: ");
 	scanf("%d", &num);
 	
-	number = num;
 	
 	while(i<=num)
 	{
@@ -16,7 +15,7 @@ int main()
 		i++;
 	}
 	
-	printf("The summation of natural numbers upto %d is %d", number, sum);
+	printf("The summation of natural numbers upto %d is %d.", num, sum);
 	
 	return 0;
 }
