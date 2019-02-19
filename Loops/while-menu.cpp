@@ -6,9 +6,6 @@ int main()
 	
 	int choice;
 	
-	printf("Enter your choice: ");
-	scanf("%d", &choice);
-	
 	while(1)
 	{
 		printf("\n 1. Balance Enquiry");
