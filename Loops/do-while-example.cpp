@@ -7,11 +7,11 @@ int main()
 	
 	do{
 		
-		printf("\n\n\nInside Loop");
+		printf("\n\nInside Loop");
 		printf("\n%d", i);
 		i++;
 		
-	}while(i<1);
+	}while(i<=5);
 	
 	printf("\n\n\nOutside Loop");
 	
