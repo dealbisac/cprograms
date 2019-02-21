@@ -10,7 +10,7 @@ int main()
 	
 	number = num;
 	
-	for(num=num; num>=1; num--)
+	for(; num>=1; num--)
 	{
 		result = result*num;
 	}
