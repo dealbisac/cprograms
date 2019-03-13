@@ -14,7 +14,10 @@ Where, * is used to denote that “p” is pointer variable and not a normal variabl
    /* address of q is assigned to ptr */
    ptr = &q;
    /* display q's value using ptr variable */
-   printf("%d", *ptr);
+   printf("%d\n", *ptr);
+   
+   /*display q's address using ptr variable */
+   printf("%d\n", ptr);
    return 0;
 }
 
